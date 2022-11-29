@@ -1,6 +1,7 @@
-# GreedySnake
+# GreedySnake by Object Oriented Programming in Java
 
-Object Oriented Programming in Java
+Functions are built in GamePanel.Java
+Main is GreedySnake.Java
 
 This project includes game frame, game panel, game mechanism, score display, game notice (game start , game over)
 
