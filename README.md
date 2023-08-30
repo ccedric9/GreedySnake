@@ -1,6 +1,6 @@
 # Greedy Snake Game
 
-Welcome to the Greedy Snake Game! This project implements a classic snake game using Java. The main components are the `GamePanel.java` and `GreedySnake.java` files. The project provides an interactive game frame, complete with dynamic gameplay mechanics, scoring, and visual feedback.
+This project implements a classic snake game using Java. The main components are the `GamePanel.java` and `GreedySnake.java` files. The project provides an interactive game frame, complete with dynamic gameplay mechanics, scoring, and visual feedback.
 
 ## Getting Started
 
